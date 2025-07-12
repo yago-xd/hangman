@@ -157,7 +157,7 @@ public class Main {
     }
     public static void guess(){
         int g;
-        System.out.println("\n❤️ Lives: "+lives_left);
+        System.out.println("\nLives: "+lives_left);
         hangmanImage();
         while((wrong_attempts < max_attempts) && (!hasWon())){
             g=0;
@@ -183,7 +183,7 @@ public class Main {
             else {
                 System.out.println("Correct guess!");
             }
-            System.out.println("❤️ Lives: "+lives_left);
+            System.out.println("Lives: "+lives_left);
             hangmanImage();
         }
         if(hasWon()) {
