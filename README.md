@@ -50,7 +50,7 @@ Download the jar file from the releases section
 ```bash
 java -jar hangman.jar
 ```
-Try it on [Replit](https://replit.com/@yago-xd/tictactoe)
+Try it on [Replit](https://replit.com/@yago-xd/hangman)
 
 ---
 
