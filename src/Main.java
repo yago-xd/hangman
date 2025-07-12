@@ -151,7 +151,7 @@ public class Main {
             System.out.println("   |        / | \\");
             System.out.println("   |          |");
             System.out.println("   |        /   \\ ");
-            System.out.println("___|___    /   e  \\");
+            System.out.println("___|___    /     \\");
             System.out.print("The word was " + word);
         }
     }
